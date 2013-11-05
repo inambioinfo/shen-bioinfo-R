@@ -1,0 +1,13 @@
+Package: ShenBioinfoR
+Type: Package
+Title: Shen Bioinfo R
+Version: 0.1.0
+Date: 2013-11-05
+Author: Li Shen, Mount Sinai <shenli.sam@gmail.com>
+Maintainer: Li Shen, Mount Sinai <shenli.sam@gmail.com>
+Description: Li Shen's collection of bioinformatic functions in R.
+License: GPL-3
+# Suggests: RUnit, BiocGenerics, BiocStyle
+# Imports: stats, RColorBrewer, gplots, methods
+URL: http://shenlab-sinai.github.io/shenlab-sinai/
+# biocViews: Enrichment, MultipleComparisons, Visualization
